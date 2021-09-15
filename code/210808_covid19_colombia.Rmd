@@ -1,5 +1,5 @@
 ---
-title: "Visualización de datos COVID-19 en Colombia"
+title: "Visualización de datos COVID-19 en Colombia."
 author: "Rafael Unda | Ingeniero Civil y MSc. Ingeniería de Transporte | Twitter: @rundav5"
 date: "11 de julio, 2021"
 output:
